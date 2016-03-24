@@ -1,32 +1,8 @@
 # GWDA313 Emerging Technologies – Final Project
 
 ### Summary
-* The purpose of this group project was to create a website using Git as basis for team collaboration. 
-* This project utilizes a variety of emerging technologies including:
-  * Git
-  * Twitter Bootstrap
-  * Normalize.css
-  * HTML5 Boilerplate
-  * Sass
-  * Bourbon
-  * Compass
-  * Sass Functions
-  * Sass Mixins
-  * Sass Placeholders
-  * Sass Sourcemaps
-  * Sass Variables
-  * Node Package Manager (NPM)
-  * Bower
-  * FontAwesome
-  * HTML5 Canvas
-  * CSS3 Gradients
-  * Responsive navigation and layout
-  * Package.json
-  * Media Queries
-  * Gulp
-  * Gulp-size module
-  * SMACSS structure
-  * JavaScript and CSS file consolidation
+* The purpose of this repository is to style and overwrite default bootstrap styling to best replicate the original psd mock-up and display the layout properly.
+* The overall styling matches the assets provided here: <https://github.com/kingluddite/emerging-technologies-final-project.git>
 
 ### Installation Process
 * Clone repository URL in Git
